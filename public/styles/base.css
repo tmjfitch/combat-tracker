@@ -1,0 +1,10 @@
+.header_row{
+	display: inline-block;
+	padding-right: 20px;
+}
+table{
+	border-collapse: collapse;
+}
+thead, tr, td{
+	border: 1px solid black;
+}
