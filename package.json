@@ -2,7 +2,7 @@
   "name": "combat-tracker",
   "version": "1.0.0",
   "description": "D&amp;D 5E Combat Tracker",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
